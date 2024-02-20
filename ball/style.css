@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+/* h1{
+    font-size: 80px;
+    font-weight: 800;
+    color: blue;
+} */
+#box{
+    height: 350px;
+    width: 300px;
+    color: blue;
+    background-color: blueviolet;
+    border-radius: 50%;
+
+}
